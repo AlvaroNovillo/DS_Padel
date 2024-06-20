@@ -39,11 +39,6 @@ The framework consists of three main modules:
 The framework was tested on the amateur public padel dataset, with videos captured from various camera angles. The results indicate that the algorithm performs well when the camera is positioned close to standard professional angles but fails at court-level views.
 
 
-## References
-
-1. [AIBall](https://www.aiball.io) - AI solution for ball tracking and analytics.
-2. Bal, B., Dureja, G.: Hawk eye: A logical innovative technology use in sports for effective decision making. Sport Science Review XXI (04 2012).
-
 ## Installation
 
 1. Clone this repository:
