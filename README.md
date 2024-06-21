@@ -15,11 +15,6 @@ This repository contains the implementation of a novel framework for automatic t
 Rey Juan Carlos University, Data Science Laboratory, C/ Tulipán, s/n, 28933, Móstoles, Spain
 {alvaro.novillo, victor.acena, carmen.lancho, marina.cuesta, isaac.martin}@urjc.es
 
-## Abstract
-
-This study presents a novel framework for automatic two-dimensional tracking of Padel games using monocular recordings. The algorithm integrates computer vision techniques to detect and track players, the court, and the ball. By employing homography, we are able to extrapolate the detected player positions to a two-dimensional court, thus enabling automatic two-dimensional tracking of Padel games. The approach is designed to be user-friendly, cost-effective, and adaptable to different camera angles and lighting conditions, making it accessible to both amateur and professional players and coaches.
-
-
 ## Methodology
 
 The framework consists of three main modules:
