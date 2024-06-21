@@ -16,7 +16,7 @@ Rey Juan Carlos University, Data Science Laboratory, C/ Tulip√°n, s/n, 28933, M√
 {alvaro.novillo, victor.acena, carmen.lancho, marina.cuesta, isaac.martin}@urjc.es
 
 ## Methodology
-![image](https://github.com/AlvaroNovillo/DS_Padel/assets/81865790/e53eaf0d-7b26-4277-af7b-ff5c28b728e9)
+[algorithm.pdf](https://github.com/user-attachments/files/15924366/algorithm.pdf)
 
 The framework consists of three main modules:
 
