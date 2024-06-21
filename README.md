@@ -4,7 +4,9 @@
 
 This repository contains the implementation of a novel framework for automatic two-dimensional tracking of Padel games using monocular recordings. The algorithm integrates computer vision techniques to detect and track players, the court, and the ball. By employing homography, we are able to extrapolate the detected player positions to a two-dimensional court, thus enabling automatic two-dimensional tracking of Padel games. This approach is designed to be user-friendly, cost-effective, and adaptable to different camera angles and lighting conditions, making it accessible to both amateur and professional players and coaches.
 
-![demo](https://github.com/AlvaroNovillo/DS_Padel/assets/81865790/e647bbed-ba8e-48f4-a0f2-e6aebbc44e5c)
+<a href="url"><img src="[http://url.to/image.png](https://github.com/AlvaroNovillo/DS_Padel/assets/81865790/a8435924-7e32-45fb-b4b7-e6eef7d03843)" align="center" height="1080" width="1920" ></a>
+
+
 
 
 ## Authors
